@@ -1,0 +1,8 @@
+C:\Users\gabri\Source\Repos\Mediador\Mediador2\bin\Debug\netcoreapp3.0\Mediador2.deps.json
+C:\Users\gabri\Source\Repos\Mediador\Mediador2\bin\Debug\netcoreapp3.0\Mediador2.dll
+C:\Users\gabri\Source\Repos\Mediador\Mediador2\bin\Debug\netcoreapp3.0\Mediador2.pdb
+C:\Users\gabri\Source\Repos\Mediador\Mediador2\obj\Debug\netcoreapp3.0\Mediador2.AssemblyInfoInputs.cache
+C:\Users\gabri\Source\Repos\Mediador\Mediador2\obj\Debug\netcoreapp3.0\Mediador2.AssemblyInfo.cs
+C:\Users\gabri\Source\Repos\Mediador\Mediador2\obj\Debug\netcoreapp3.0\Mediador2.dll
+C:\Users\gabri\Source\Repos\Mediador\Mediador2\obj\Debug\netcoreapp3.0\Mediador2.pdb
+C:\Users\gabri\Source\Repos\Mediador\Mediador2\obj\Debug\netcoreapp3.0\Mediador2.csprojAssemblyReference.cache

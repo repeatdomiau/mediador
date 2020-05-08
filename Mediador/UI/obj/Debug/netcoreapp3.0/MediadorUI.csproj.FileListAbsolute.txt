@@ -1,0 +1,14 @@
+C:\Users\gabri\Source\Repos\Mediador\UI\bin\Debug\netcoreapp3.0\MediadorUI.exe
+C:\Users\gabri\Source\Repos\Mediador\UI\bin\Debug\netcoreapp3.0\MediadorUI.deps.json
+C:\Users\gabri\Source\Repos\Mediador\UI\bin\Debug\netcoreapp3.0\MediadorUI.runtimeconfig.json
+C:\Users\gabri\Source\Repos\Mediador\UI\bin\Debug\netcoreapp3.0\MediadorUI.runtimeconfig.dev.json
+C:\Users\gabri\Source\Repos\Mediador\UI\bin\Debug\netcoreapp3.0\MediadorUI.dll
+C:\Users\gabri\Source\Repos\Mediador\UI\bin\Debug\netcoreapp3.0\MediadorUI.pdb
+C:\Users\gabri\Source\Repos\Mediador\UI\bin\Debug\netcoreapp3.0\Mediador3.dll
+C:\Users\gabri\Source\Repos\Mediador\UI\bin\Debug\netcoreapp3.0\Mediador3.pdb
+C:\Users\gabri\Source\Repos\Mediador\UI\obj\Debug\netcoreapp3.0\MediadorUI.csprojAssemblyReference.cache
+C:\Users\gabri\Source\Repos\Mediador\UI\obj\Debug\netcoreapp3.0\MediadorUI.AssemblyInfoInputs.cache
+C:\Users\gabri\Source\Repos\Mediador\UI\obj\Debug\netcoreapp3.0\MediadorUI.AssemblyInfo.cs
+C:\Users\gabri\Source\Repos\Mediador\UI\obj\Debug\netcoreapp3.0\MediadorUI.csproj.CopyComplete
+C:\Users\gabri\Source\Repos\Mediador\UI\obj\Debug\netcoreapp3.0\MediadorUI.dll
+C:\Users\gabri\Source\Repos\Mediador\UI\obj\Debug\netcoreapp3.0\MediadorUI.pdb

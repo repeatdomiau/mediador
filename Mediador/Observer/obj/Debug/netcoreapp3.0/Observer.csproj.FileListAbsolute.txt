@@ -1,0 +1,11 @@
+C:\Users\gabri\Source\Repos\Mediador\Observer\bin\Debug\netcoreapp3.0\Observer.deps.json
+C:\Users\gabri\Source\Repos\Mediador\Observer\bin\Debug\netcoreapp3.0\Observer.dll
+C:\Users\gabri\Source\Repos\Mediador\Observer\bin\Debug\netcoreapp3.0\Observer.pdb
+C:\Users\gabri\Source\Repos\Mediador\Observer\obj\Debug\netcoreapp3.0\Observer.AssemblyInfoInputs.cache
+C:\Users\gabri\Source\Repos\Mediador\Observer\obj\Debug\netcoreapp3.0\Observer.AssemblyInfo.cs
+C:\Users\gabri\Source\Repos\Mediador\Observer\obj\Debug\netcoreapp3.0\Observer.dll
+C:\Users\gabri\Source\Repos\Mediador\Observer\obj\Debug\netcoreapp3.0\Observer.pdb
+C:\Users\gabri\Source\Repos\Mediador\Observer\bin\Debug\netcoreapp3.0\Observer.exe
+C:\Users\gabri\Source\Repos\Mediador\Observer\bin\Debug\netcoreapp3.0\Observer.runtimeconfig.json
+C:\Users\gabri\Source\Repos\Mediador\Observer\bin\Debug\netcoreapp3.0\Observer.runtimeconfig.dev.json
+C:\Users\gabri\Source\Repos\Mediador\Observer\obj\Debug\netcoreapp3.0\Observer.csprojAssemblyReference.cache
